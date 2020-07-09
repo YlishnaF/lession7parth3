@@ -3,6 +3,9 @@ public class TestClass  {
     public static void cook(){
         System.out.println("Мама приготовила еду");
     }
+    public static void cook2(){
+        System.out.println("Мама приготовила еду");
+    }
 
     @Test
     public static void eat2(){
